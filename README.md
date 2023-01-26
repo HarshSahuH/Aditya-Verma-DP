@@ -1,2 +1,0 @@
-# Aditya-verma-
-Stack Code 
