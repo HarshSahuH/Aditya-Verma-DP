@@ -31,3 +31,4 @@
         int cost = solve(i,j,arr);
         return cost;
     }
+ 
